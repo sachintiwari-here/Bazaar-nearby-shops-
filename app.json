@@ -14,6 +14,11 @@
     "android": {
       "edgeToEdgeEnabled": true,
       "package": "com.sachintiwari.bazaarnearbyshops"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0fa4767a-183e-4277-9437-adaa5daa9cc1"
+      }
     }
   }
 }
