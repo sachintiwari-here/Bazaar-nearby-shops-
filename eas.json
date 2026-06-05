@@ -1,12 +1,10 @@
 {
   "cli": {
-    "version": ">= 0.52.0",
-    "appVersionSource": "local"
+    "version": ">= 0.52.0"
   },
   "build": {
     "preview": {
       "distribution": "internal",
-      "projectId": "0fa4767a-183e-4277-9437-adaa5daa9cc1",
       "android": {
         "buildType": "apk"
       }
