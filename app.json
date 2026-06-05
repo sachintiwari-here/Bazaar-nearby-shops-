@@ -2,7 +2,6 @@
   "expo": {
     "name": "bazaar-nearby-shops-",
     "slug": "snack-85b9cb6e-2d00-43f7-9c46-431d18d01e8e",
-    "projectId": "0fa4767a-183e-4277-9437-adaa5daa9cc1",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
@@ -14,6 +13,11 @@
     "android": {
       "edgeToEdgeEnabled": true,
       "package": "com.sachintiwari.bazaarnearbyshops"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0fa4767a-183e-4277-9437-adaa5daa9cc1"
+      }
     }
   }
 }
