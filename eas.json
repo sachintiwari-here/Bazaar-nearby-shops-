@@ -2,7 +2,6 @@
   "cli": {
     "version": ">= 0.52.0"
   },
-  "projectId": "0fa4767a-183e-4277-9437-adaa5daa9cc1",
   "build": {
     "preview": {
       "distribution": "internal",
